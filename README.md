@@ -47,13 +47,7 @@ The main objective of this project is to identify the relationship between the e
 
 
 
-**ANALYSIS OF RESULTS
+**Analysis of Results
+
 From below figures and based on the analysis from the clusters Excel file in the GitHub, Cluster 1 and Cluster 2 have highest number of people who are above 50. Additionally, Cluster 1 and Cluster 2 has people with more experienced, who are extremely comfortable in using the laptops. Essentially, pertaining to SEBIS questions Cluster 1 and Cluster 2 have significantly greater number of people (ranking wise) who lock their systems (Device Securement); who use different passwords for different accounts (Password Generation) and has greater number of people who never click a link when someone sends it (Proactive Awareness) and greater number of people who verify their Anti-virus software is regularly updating itself. On the contrary, Cluster 0 and Cluster 3 have a greater number of people who has degree lower than the associate degree. Also, has the highest number of people who do not lock their systems manually or do not auto lock their systems (Device Securement); who do not set their passwords to their mobile phones (Password Generation). This work concludes that poll workers who have higher education, who are above 40 years of age and who are extremely comfortable in using the computer or laptops has highest number of poll workers (ranking wise) who lock their systems, who use different passwords for different accounts and who never click a link when someone sends it. Moreover, these people update their software or anti-virus up to date. Precisely based on this analysis, gender or the age may not be accurate because a greater number of females have taken this survey, and furthermore, there are almost 310 people who are above 40 years of age. So, this work had to just consider the analysis based on qualification and level of comfortability in using the computer.
 
-
-
-
-
-![Screenshot 2024-09-12 at 9 47 16 PM](https://github.com/user-attachments/assets/974cdf97-5cdc-4cb4-b9f4-52bfdca5a2f9)
-![Screenshot 2024-09-12 at 9 46 56 PM](https://github.com/user-attachments/assets/eb7829a7-da09-4965-ae2f-7b59499cb8d3)
-![Screenshot 2024-09-12 at 9 46 26 PM](https://github.com/user-attachments/assets/421fba21-8476-48ad-8ec2-ec44ada9d29d)
